@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sh0tgvn45off<br>👀 I’m interested in Cybersecurity, Call Of Duty, Gym, music production & Pentesting<br>🌱 I’m currently learning Amazon AWS<br>💞️ I’m looking to collaborate on Fullstack Projects<br>📫 How to reach me moyolazarous45@gmail or Linkedin as Lazarous Moyo<br>😄 Pronouns: HE/HIM<br>⚡ Fun fact: I CAN BENCH 110 KGs x 8 Reps
+👋 Hi, I’m @Sh0tgvn45off<br>👀 I’m interested in Sci-fi, Call Of Duty, Gym, music production & Pentesting<br>🌱 I’m currently learning Amazon AWS<br>💞️ I’m looking to collaborate on Fullstack Projects<br>📫 How to reach me moyolazarous45@gmail or Linkedin as Lazarous Moyo<br>😄 Pronouns: HE/HIM<br>⚡ Fun fact: I CAN BENCH 110 KGs x 8 Reps
 
 
 # 💻 Tech Stack:
